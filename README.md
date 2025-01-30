@@ -1,4 +1,4 @@
-# yzu-campus-network-auto-login
+# YZU-Campus-Network-Auto-Login
 扬州大学校园网自动认证登录脚本（施工中）
 
 这是作者为了在宿舍舒适的使用智能家居（其实主要是空气净化器、台灯和智能音箱）而编写的可以运行在宿舍内小主机上的脚本
