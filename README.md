@@ -26,7 +26,8 @@
 需要注意的是，如果阁下使用的是台式机，可能没有安装无线网卡，自然也无法开启移动热点。此时您可以选择购买张无线网卡，本文不提供具体的购买建议 ~~（但出于各种原因作者并不是很推荐本方案）~~
 
 ***
-*小知识：MAC地址（英语：Media Access Control Address），直译为媒体访问控制地址，也称为局域网地址（LAN Address），以太网地址（Ethernet Address）或物理地址（Physical Address），它是一个用来确认网络设备位置的地址。在OSI模型中，第三层网络层负责IP地址，第二层数据链接层则负责MAC地址。MAC地址用于在网络中唯一标示一个网卡，一台设备若有一或多个网卡，则每个网卡都需要并会有一个唯一的MAC地址。————摘自[wikipedia](https://zh.wikipedia.org/wiki/MAC%E5%9C%B0%E5%9D%80)*
+*小知识：MAC地址（英语：Media Access Control Address），直译为媒体访问控制地址，也称为局域网地址（LAN Address），以太网地址（Ethernet Address）或物理地址（Physical Address），它是一个用来确认网络设备位置的地址。在OSI模型中，第三层网络层负责IP地址，第二层数据链接层则负责MAC地址。MAC地址用于在网络中唯一标示一个网卡，一台设备若有一或多个网卡，则每个网卡都需要并会有一个唯一的MAC地址。*
+<p align="right">————摘自[wikipedia](https://zh.wikipedia.org/wiki/MAC%E5%9C%B0%E5%9D%80)</p>
 
 好的这是废话，和下文几乎没有关系。因为咱其实没有弄明白为什么方案可行，喵是杂鱼。但无论如何，一个事实是：YZU的校园网……让路由器克隆一台已经完成认证的设备的MAC地址……可以让所有连接到路由器的设备上网了。
 
