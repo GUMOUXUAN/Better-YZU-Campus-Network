@@ -13,9 +13,9 @@ SERVICE_LIST: list = [
     "校内免费服务"
 ]
 
-USER_ID = "243502232"
+USER_ID = "#########"
 #请在此处填写你的学工号          
-PASSWORD = "66261034@Ray"  
+PASSWORD = "##########"  
 #请在此处填写你的密码              
 SERVICE_INDEX = 4  
 #请在此处选择服务索引
@@ -124,4 +124,5 @@ if __name__ == "__main__":
         
         while True:
             login_attempt(client)
+
             time.sleep(10)
