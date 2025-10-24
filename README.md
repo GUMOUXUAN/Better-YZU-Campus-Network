@@ -46,7 +46,7 @@ pip install httpx
 在命令行中导航到脚本所在目录，使用 Python 解释器运行：
 
 ```bash
-python yzu_login.py
+python main.py
 ```
 
 #### 方法二：打包为独立软件 (PyInstaller)
